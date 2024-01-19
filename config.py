@@ -18,7 +18,7 @@ push plus 微信推送,具体使用参考  https://www.pushplus.plus
 如没有配置则不推送消息
 为了安全,这里使用的环境配置.git里面请自行百度如何添加secrets.pycharm也可以自主添加.如果你实在不会,就直接用明文吧（O.o）
 '''
-PUSH_TOKEN = 'e58493e3b05c012424cee824152a20d1'
+PUSH_TOKEN = 'ccf9f00a4ed34022a53d7919b89e454d'
 
 
 '''
